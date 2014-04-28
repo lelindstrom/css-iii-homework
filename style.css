@@ -1,2 +1,53 @@
 /*create your custom styling here*/
 
+
+#header{background-color: #29A329;
+	width: 800px;
+			height:200px;
+		margin: 5px;
+		
+	}
+
+	.small-box{background-color: #FFCC00;
+				height: 150px;
+				width: 150px;
+				margin: 5px;
+				position: relative;
+				left: 20px;
+				top: 10px;}
+
+		.long-box{background-color: #FFCC00;
+			height: 470px;
+			width: 150px;
+			margin: 5px;
+			position: relative;
+			left: 20px;
+			top: 10px;}
+
+		.sidebar{background-color: #0066FF;
+		height: 500px;
+		width: 200px;
+		margin: 5px;
+		display: inline-block;
+	}
+
+
+		
+
+
+
+#main-story{background-color: #E65C00;
+		height: 500px;
+		width: 375px;
+		margin: 5px;
+		display:inline-block;
+		}
+
+
+
+#footer{background-color: #FF6666;
+		height: 200px;
+		width: 800px;
+		margin: 5px;
+		}
+
